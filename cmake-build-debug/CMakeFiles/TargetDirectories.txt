@@ -1,0 +1,3 @@
+/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/cmake-build-debug/CMakeFiles/BUPT_Standard_C.elf.dir
+/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
