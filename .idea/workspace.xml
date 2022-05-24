@@ -15,8 +15,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64525e57-6c46-40b7-b6af-c480e26437ee" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="64525e57-6c46-40b7-b6af-c480e26437ee" name="变更" comment="添加README.md">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,8 +93,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1653395914730</updated>
-      <workItem from="1653395915966" duration="1056000" />
+      <workItem from="1653395915966" duration="1237000" />
     </task>
+    <task id="LOCAL-00001" summary="添加README.md">
+      <created>1653399652200</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1653399652200</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,5 +118,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="添加README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加README.md" />
   </component>
 </project>
