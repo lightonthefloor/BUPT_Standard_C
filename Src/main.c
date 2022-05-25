@@ -45,11 +45,11 @@
 /* Private variables ---------------------------------------------------------*/
 
 /* USER CODE BEGIN PV */
-
-/* USER CODE END PV */
-
 #pragma clang diagnostic push
 #pragma ide diagnostic ignored "EndlessLoop"
+/* USER CODE END PV */
+
+
 /* Private function prototypes -----------------------------------------------*/
 void SystemClock_Config(void);
 /* USER CODE BEGIN PFP */
@@ -58,7 +58,7 @@ void SystemClock_Config(void);
 
 /* Private user code ---------------------------------------------------------*/
 /* USER CODE BEGIN 0 */
-
+#include "Basic.h"
 /* USER CODE END 0 */
 
 /**
@@ -95,7 +95,7 @@ int main(void)
   MX_CAN2_Init();
   MX_USART3_UART_Init();
   /* USER CODE BEGIN 2 */
-
+	Basic_Init();
   /* USER CODE END 2 */
 
   /* Infinite loop */
@@ -105,6 +105,10 @@ int main(void)
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
+		LED_R_On();
+		HAL_Delay(1000);
+		LED_R_Off();
+		HAL_Delay(1000);
   }
   /* USER CODE END 3 */
 }

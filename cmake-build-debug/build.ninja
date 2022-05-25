@@ -53,7 +53,7 @@ build CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f
   DEFINES = -DSTM32F407xx -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj.d
   FLAGS = -g -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11
-  INCLUDES = -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Include
+  INCLUDES = -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Lib/Inc
   OBJECT_DIR = CMakeFiles/BUPT_Standard_C.elf.dir
   OBJECT_FILE_DIR = CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src
 
@@ -61,7 +61,7 @@ build CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f
   DEFINES = -DSTM32F407xx -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj.d
   FLAGS = -g -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11
-  INCLUDES = -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Include
+  INCLUDES = -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Lib/Inc
   OBJECT_DIR = CMakeFiles/BUPT_Standard_C.elf.dir
   OBJECT_FILE_DIR = CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src
 
@@ -69,7 +69,7 @@ build CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f
   DEFINES = -DSTM32F407xx -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj.d
   FLAGS = -g -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11
-  INCLUDES = -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Include
+  INCLUDES = -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Lib/Inc
   OBJECT_DIR = CMakeFiles/BUPT_Standard_C.elf.dir
   OBJECT_FILE_DIR = CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src
 
@@ -77,7 +77,7 @@ build CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f
   DEFINES = -DSTM32F407xx -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj.d
   FLAGS = -g -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11
-  INCLUDES = -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Include
+  INCLUDES = -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Lib/Inc
   OBJECT_DIR = CMakeFiles/BUPT_Standard_C.elf.dir
   OBJECT_FILE_DIR = CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src
 
@@ -85,7 +85,7 @@ build CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f
   DEFINES = -DSTM32F407xx -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj.d
   FLAGS = -g -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11
-  INCLUDES = -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Include
+  INCLUDES = -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Lib/Inc
   OBJECT_DIR = CMakeFiles/BUPT_Standard_C.elf.dir
   OBJECT_FILE_DIR = CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src
 
@@ -93,7 +93,7 @@ build CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f
   DEFINES = -DSTM32F407xx -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj.d
   FLAGS = -g -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11
-  INCLUDES = -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Include
+  INCLUDES = -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Lib/Inc
   OBJECT_DIR = CMakeFiles/BUPT_Standard_C.elf.dir
   OBJECT_FILE_DIR = CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src
 
@@ -101,7 +101,7 @@ build CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f
   DEFINES = -DSTM32F407xx -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj.d
   FLAGS = -g -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11
-  INCLUDES = -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Include
+  INCLUDES = -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Lib/Inc
   OBJECT_DIR = CMakeFiles/BUPT_Standard_C.elf.dir
   OBJECT_FILE_DIR = CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src
 
@@ -109,7 +109,7 @@ build CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f
   DEFINES = -DSTM32F407xx -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj.d
   FLAGS = -g -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11
-  INCLUDES = -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Include
+  INCLUDES = -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Lib/Inc
   OBJECT_DIR = CMakeFiles/BUPT_Standard_C.elf.dir
   OBJECT_FILE_DIR = CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src
 
@@ -117,7 +117,7 @@ build CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f
   DEFINES = -DSTM32F407xx -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj.d
   FLAGS = -g -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11
-  INCLUDES = -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Include
+  INCLUDES = -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Lib/Inc
   OBJECT_DIR = CMakeFiles/BUPT_Standard_C.elf.dir
   OBJECT_FILE_DIR = CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src
 
@@ -125,7 +125,7 @@ build CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f
   DEFINES = -DSTM32F407xx -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj.d
   FLAGS = -g -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11
-  INCLUDES = -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Include
+  INCLUDES = -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Lib/Inc
   OBJECT_DIR = CMakeFiles/BUPT_Standard_C.elf.dir
   OBJECT_FILE_DIR = CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src
 
@@ -133,7 +133,7 @@ build CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f
   DEFINES = -DSTM32F407xx -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj.d
   FLAGS = -g -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11
-  INCLUDES = -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Include
+  INCLUDES = -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Lib/Inc
   OBJECT_DIR = CMakeFiles/BUPT_Standard_C.elf.dir
   OBJECT_FILE_DIR = CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src
 
@@ -141,7 +141,7 @@ build CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f
   DEFINES = -DSTM32F407xx -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj.d
   FLAGS = -g -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11
-  INCLUDES = -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Include
+  INCLUDES = -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Lib/Inc
   OBJECT_DIR = CMakeFiles/BUPT_Standard_C.elf.dir
   OBJECT_FILE_DIR = CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src
 
@@ -149,7 +149,7 @@ build CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f
   DEFINES = -DSTM32F407xx -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj.d
   FLAGS = -g -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11
-  INCLUDES = -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Include
+  INCLUDES = -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Lib/Inc
   OBJECT_DIR = CMakeFiles/BUPT_Standard_C.elf.dir
   OBJECT_FILE_DIR = CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src
 
@@ -157,7 +157,7 @@ build CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f
   DEFINES = -DSTM32F407xx -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj.d
   FLAGS = -g -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11
-  INCLUDES = -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Include
+  INCLUDES = -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Lib/Inc
   OBJECT_DIR = CMakeFiles/BUPT_Standard_C.elf.dir
   OBJECT_FILE_DIR = CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src
 
@@ -165,7 +165,7 @@ build CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f
   DEFINES = -DSTM32F407xx -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj.d
   FLAGS = -g -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11
-  INCLUDES = -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Include
+  INCLUDES = -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Lib/Inc
   OBJECT_DIR = CMakeFiles/BUPT_Standard_C.elf.dir
   OBJECT_FILE_DIR = CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src
 
@@ -173,7 +173,7 @@ build CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f
   DEFINES = -DSTM32F407xx -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj.d
   FLAGS = -g -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11
-  INCLUDES = -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Include
+  INCLUDES = -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Lib/Inc
   OBJECT_DIR = CMakeFiles/BUPT_Standard_C.elf.dir
   OBJECT_FILE_DIR = CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src
 
@@ -181,15 +181,23 @@ build CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f
   DEFINES = -DSTM32F407xx -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj.d
   FLAGS = -g -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11
-  INCLUDES = -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Include
+  INCLUDES = -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Lib/Inc
   OBJECT_DIR = CMakeFiles/BUPT_Standard_C.elf.dir
   OBJECT_FILE_DIR = CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src
+
+build CMakeFiles/BUPT_Standard_C.elf.dir/Lib/Src/Basic.c.obj: C_COMPILER__BUPT_Standard_C.2eelf_Debug /Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Lib/Src/Basic.c || cmake_object_order_depends_target_BUPT_Standard_C.elf
+  DEFINES = -DSTM32F407xx -DUSE_HAL_DRIVER
+  DEP_FILE = CMakeFiles/BUPT_Standard_C.elf.dir/Lib/Src/Basic.c.obj.d
+  FLAGS = -g -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11
+  INCLUDES = -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Lib/Inc
+  OBJECT_DIR = CMakeFiles/BUPT_Standard_C.elf.dir
+  OBJECT_FILE_DIR = CMakeFiles/BUPT_Standard_C.elf.dir/Lib/Src
 
 build CMakeFiles/BUPT_Standard_C.elf.dir/Src/can.c.obj: C_COMPILER__BUPT_Standard_C.2eelf_Debug /Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Src/can.c || cmake_object_order_depends_target_BUPT_Standard_C.elf
   DEFINES = -DSTM32F407xx -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles/BUPT_Standard_C.elf.dir/Src/can.c.obj.d
   FLAGS = -g -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11
-  INCLUDES = -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Include
+  INCLUDES = -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Lib/Inc
   OBJECT_DIR = CMakeFiles/BUPT_Standard_C.elf.dir
   OBJECT_FILE_DIR = CMakeFiles/BUPT_Standard_C.elf.dir/Src
 
@@ -197,7 +205,7 @@ build CMakeFiles/BUPT_Standard_C.elf.dir/Src/dma.c.obj: C_COMPILER__BUPT_Standar
   DEFINES = -DSTM32F407xx -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles/BUPT_Standard_C.elf.dir/Src/dma.c.obj.d
   FLAGS = -g -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11
-  INCLUDES = -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Include
+  INCLUDES = -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Lib/Inc
   OBJECT_DIR = CMakeFiles/BUPT_Standard_C.elf.dir
   OBJECT_FILE_DIR = CMakeFiles/BUPT_Standard_C.elf.dir/Src
 
@@ -205,7 +213,7 @@ build CMakeFiles/BUPT_Standard_C.elf.dir/Src/gpio.c.obj: C_COMPILER__BUPT_Standa
   DEFINES = -DSTM32F407xx -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles/BUPT_Standard_C.elf.dir/Src/gpio.c.obj.d
   FLAGS = -g -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11
-  INCLUDES = -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Include
+  INCLUDES = -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Lib/Inc
   OBJECT_DIR = CMakeFiles/BUPT_Standard_C.elf.dir
   OBJECT_FILE_DIR = CMakeFiles/BUPT_Standard_C.elf.dir/Src
 
@@ -213,7 +221,7 @@ build CMakeFiles/BUPT_Standard_C.elf.dir/Src/main.c.obj: C_COMPILER__BUPT_Standa
   DEFINES = -DSTM32F407xx -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles/BUPT_Standard_C.elf.dir/Src/main.c.obj.d
   FLAGS = -g -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11
-  INCLUDES = -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Include
+  INCLUDES = -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Lib/Inc
   OBJECT_DIR = CMakeFiles/BUPT_Standard_C.elf.dir
   OBJECT_FILE_DIR = CMakeFiles/BUPT_Standard_C.elf.dir/Src
 
@@ -221,7 +229,7 @@ build CMakeFiles/BUPT_Standard_C.elf.dir/Src/stm32f4xx_hal_msp.c.obj: C_COMPILER
   DEFINES = -DSTM32F407xx -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles/BUPT_Standard_C.elf.dir/Src/stm32f4xx_hal_msp.c.obj.d
   FLAGS = -g -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11
-  INCLUDES = -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Include
+  INCLUDES = -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Lib/Inc
   OBJECT_DIR = CMakeFiles/BUPT_Standard_C.elf.dir
   OBJECT_FILE_DIR = CMakeFiles/BUPT_Standard_C.elf.dir/Src
 
@@ -229,7 +237,7 @@ build CMakeFiles/BUPT_Standard_C.elf.dir/Src/stm32f4xx_it.c.obj: C_COMPILER__BUP
   DEFINES = -DSTM32F407xx -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles/BUPT_Standard_C.elf.dir/Src/stm32f4xx_it.c.obj.d
   FLAGS = -g -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11
-  INCLUDES = -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Include
+  INCLUDES = -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Lib/Inc
   OBJECT_DIR = CMakeFiles/BUPT_Standard_C.elf.dir
   OBJECT_FILE_DIR = CMakeFiles/BUPT_Standard_C.elf.dir/Src
 
@@ -237,7 +245,7 @@ build CMakeFiles/BUPT_Standard_C.elf.dir/Src/syscalls.c.obj: C_COMPILER__BUPT_St
   DEFINES = -DSTM32F407xx -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles/BUPT_Standard_C.elf.dir/Src/syscalls.c.obj.d
   FLAGS = -g -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11
-  INCLUDES = -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Include
+  INCLUDES = -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Lib/Inc
   OBJECT_DIR = CMakeFiles/BUPT_Standard_C.elf.dir
   OBJECT_FILE_DIR = CMakeFiles/BUPT_Standard_C.elf.dir/Src
 
@@ -245,7 +253,7 @@ build CMakeFiles/BUPT_Standard_C.elf.dir/Src/system_stm32f4xx.c.obj: C_COMPILER_
   DEFINES = -DSTM32F407xx -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles/BUPT_Standard_C.elf.dir/Src/system_stm32f4xx.c.obj.d
   FLAGS = -g -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11
-  INCLUDES = -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Include
+  INCLUDES = -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Lib/Inc
   OBJECT_DIR = CMakeFiles/BUPT_Standard_C.elf.dir
   OBJECT_FILE_DIR = CMakeFiles/BUPT_Standard_C.elf.dir/Src
 
@@ -253,7 +261,7 @@ build CMakeFiles/BUPT_Standard_C.elf.dir/Src/usart.c.obj: C_COMPILER__BUPT_Stand
   DEFINES = -DSTM32F407xx -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles/BUPT_Standard_C.elf.dir/Src/usart.c.obj.d
   FLAGS = -g -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -std=gnu11
-  INCLUDES = -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Include
+  INCLUDES = -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Lib/Inc
   OBJECT_DIR = CMakeFiles/BUPT_Standard_C.elf.dir
   OBJECT_FILE_DIR = CMakeFiles/BUPT_Standard_C.elf.dir/Src
 
@@ -261,7 +269,7 @@ build CMakeFiles/BUPT_Standard_C.elf.dir/startup/startup_stm32f407xx.s.obj: ASM_
   DEFINES = -DSTM32F407xx -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles/BUPT_Standard_C.elf.dir/startup/startup_stm32f407xx.s.obj.d
   FLAGS = -g -mcpu=cortex-m4 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -x assembler-with-cpp -Og -g
-  INCLUDES = -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Include
+  INCLUDES = -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Device/ST/STM32F4xx/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Drivers/CMSIS/Include -I/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/Lib/Inc
   OBJECT_DIR = CMakeFiles/BUPT_Standard_C.elf.dir
   OBJECT_FILE_DIR = CMakeFiles/BUPT_Standard_C.elf.dir/startup
 
@@ -273,7 +281,7 @@ build CMakeFiles/BUPT_Standard_C.elf.dir/startup/startup_stm32f407xx.s.obj: ASM_
 #############################################
 # Link the executable BUPT_Standard_C.elf
 
-build BUPT_Standard_C.elf: C_EXECUTABLE_LINKER__BUPT_Standard_C.2eelf_Debug CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj CMakeFiles/BUPT_Standard_C.elf.dir/Src/can.c.obj CMakeFiles/BUPT_Standard_C.elf.dir/Src/dma.c.obj CMakeFiles/BUPT_Standard_C.elf.dir/Src/gpio.c.obj CMakeFiles/BUPT_Standard_C.elf.dir/Src/main.c.obj CMakeFiles/BUPT_Standard_C.elf.dir/Src/stm32f4xx_hal_msp.c.obj CMakeFiles/BUPT_Standard_C.elf.dir/Src/stm32f4xx_it.c.obj CMakeFiles/BUPT_Standard_C.elf.dir/Src/syscalls.c.obj CMakeFiles/BUPT_Standard_C.elf.dir/Src/system_stm32f4xx.c.obj CMakeFiles/BUPT_Standard_C.elf.dir/Src/usart.c.obj CMakeFiles/BUPT_Standard_C.elf.dir/startup/startup_stm32f407xx.s.obj
+build BUPT_Standard_C.elf: C_EXECUTABLE_LINKER__BUPT_Standard_C.2eelf_Debug CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj CMakeFiles/BUPT_Standard_C.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj CMakeFiles/BUPT_Standard_C.elf.dir/Lib/Src/Basic.c.obj CMakeFiles/BUPT_Standard_C.elf.dir/Src/can.c.obj CMakeFiles/BUPT_Standard_C.elf.dir/Src/dma.c.obj CMakeFiles/BUPT_Standard_C.elf.dir/Src/gpio.c.obj CMakeFiles/BUPT_Standard_C.elf.dir/Src/main.c.obj CMakeFiles/BUPT_Standard_C.elf.dir/Src/stm32f4xx_hal_msp.c.obj CMakeFiles/BUPT_Standard_C.elf.dir/Src/stm32f4xx_it.c.obj CMakeFiles/BUPT_Standard_C.elf.dir/Src/syscalls.c.obj CMakeFiles/BUPT_Standard_C.elf.dir/Src/system_stm32f4xx.c.obj CMakeFiles/BUPT_Standard_C.elf.dir/Src/usart.c.obj CMakeFiles/BUPT_Standard_C.elf.dir/startup/startup_stm32f407xx.s.obj
   FLAGS = -g
   LINK_FLAGS = -Wl,-gc-sections,--print-memory-usage,-Map=/Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/cmake-build-debug/BUPT_Standard_C.map -mcpu=cortex-m4 -mthumb -mthumb-interwork -T /Users/trisoil/Desktop/Robomaster_Codes/BUPT_Standard_C/STM32F407IGHx_FLASH.ld
   OBJECT_DIR = CMakeFiles/BUPT_Standard_C.elf.dir
