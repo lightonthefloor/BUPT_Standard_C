@@ -8,7 +8,7 @@
 #ifndef BUPT_STANDARD_C_BASIC_H
 #define BUPT_STANDARD_C_BASIC_H
 
-#define KEY_STATE HAL_GPIO_ReadPin(KEY_GPIO_Port,KEY_Pin)
+#define KEY_STATE !HAL_GPIO_ReadPin(KEY_GPIO_Port,KEY_Pin)
 
 extern void Basic_Init();
 extern void LED_R_On();

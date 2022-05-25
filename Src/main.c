@@ -25,7 +25,9 @@
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
-
+#include "Basic.h"
+#include "Usart_Printf.h"
+#include "USART_Receive.h"
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
@@ -49,7 +51,6 @@
 #pragma ide diagnostic ignored "EndlessLoop"
 /* USER CODE END PV */
 
-
 /* Private function prototypes -----------------------------------------------*/
 void SystemClock_Config(void);
 /* USER CODE BEGIN PFP */
@@ -58,7 +59,10 @@ void SystemClock_Config(void);
 
 /* Private user code ---------------------------------------------------------*/
 /* USER CODE BEGIN 0 */
-#include "Basic.h"
+void Received_Data_Dealer(const uint8_t *sbus_buf)
+{
+	Usart_Printf("I got: %s %s",sbus_buf,"\r\n");
+}
 /* USER CODE END 0 */
 
 /**
@@ -96,6 +100,8 @@ int main(void)
   MX_USART3_UART_Init();
   /* USER CODE BEGIN 2 */
 	Basic_Init();
+	Usart1_TX_DMA_Init();
+	USART1_Rx_Init();
   /* USER CODE END 2 */
 
   /* Infinite loop */
@@ -105,10 +111,6 @@ int main(void)
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
-		LED_R_On();
-		HAL_Delay(1000);
-		LED_R_Off();
-		HAL_Delay(1000);
   }
   /* USER CODE END 3 */
 }
@@ -192,5 +194,3 @@ void assert_failed(uint8_t *file, uint32_t line)
 }
 #endif /* USE_FULL_ASSERT */
 
-
-#pragma clang diagnostic pop

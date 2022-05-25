@@ -15,19 +15,34 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64525e57-6c46-40b7-b6af-c480e26437ee" name="变更" comment="修改README.md">
-      <change afterPath="$PROJECT_DIR$/Lib/Inc/Basic.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lib/Src/Basic.c" afterDir="false" />
+    <list default="true" id="64525e57-6c46-40b7-b6af-c480e26437ee" name="变更" comment="完成Basic库的书写">
+      <change afterPath="$PROJECT_DIR$/Lib/Inc/CAN_Operation.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lib/Inc/Location_Module_Recieve.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lib/Inc/Move_Controlor.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lib/Inc/Navi_Control.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lib/Inc/PID_Controlor.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lib/Inc/Remote_Controller.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lib/Inc/USART_Receive.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lib/Inc/Usart_Printf.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lib/Src/CAN_Operation.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lib/Src/Location_Module_Recieve.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lib/Src/Move_Controlor.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lib/Src/Navi_Control.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lib/Src/PID_Controlor.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lib/Src/Remote_Controller.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lib/Src/USART_Receive.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lib/Src/Usart_Printf.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mxproject" beforeDir="false" afterPath="$PROJECT_DIR$/.mxproject" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BUPT_Standard_C.ioc" beforeDir="false" afterPath="$PROJECT_DIR$/BUPT_Standard_C.ioc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inc/stm32f4xx_it.h" beforeDir="false" afterPath="$PROJECT_DIR$/Inc/stm32f4xx_it.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/Inc/Basic.h" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/Inc/Basic.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Src/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/Src/main.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-3ca0f61f746ccacd3432.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2022-05-24T13-31-48-0265.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-BUPT_Standard_C.elf-Debug-7d5064611b8bb82e2948.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/stm32f4xx_it.c" beforeDir="false" afterPath="$PROJECT_DIR$/Src/stm32f4xx_it.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-5a9170ca57c1bcda2a37.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.22.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.22.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.22.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.22.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,6 +75,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
@@ -78,7 +94,7 @@
       <recent name="$PROJECT_DIR$/Lib/Inc" />
     </key>
   </component>
-  <component name="RunManager" selected="OpenOCD 下载并运行.stlink">
+  <component name="RunManager" selected="OpenOCD 下载并运行.daplink">
     <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="CLION.EXTERNAL.BUILD" enabled="true" />
@@ -113,7 +129,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1653395914730</updated>
-      <workItem from="1653395915966" duration="4894000" />
+      <workItem from="1653395915966" duration="7037000" />
     </task>
     <task id="LOCAL-00001" summary="添加README.md">
       <created>1653399652200</created>
@@ -129,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653399755595</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="完成Basic库的书写">
+      <created>1653447379307</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1653447379307</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,8 +170,10 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="添加README.md" />
     <MESSAGE value="修改README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改README.md" />
+    <MESSAGE value="完成Basic库的书写" />
+    <option name="LAST_COMMIT_MESSAGE" value="完成Basic库的书写" />
   </component>
 </project>
